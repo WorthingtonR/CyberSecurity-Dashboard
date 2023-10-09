@@ -1,2 +1,8 @@
 plotly.express
 streamlit
+collections
+random
+warnings
+pandas
+numpy
+time
