@@ -1,0 +1,722 @@
+﻿Asset,Type,Risk,Failure,Country,City
+802.11ac wireless access point,HARDWARE,HIGH,Power,United States,Nashville
+802.11ac wireless NIC,HARDWARE,HIGH,DDOS,United States,Nashville
+802.11n wireless access point,HARDWARE,HIGH,Crash,United States,Nashville
+802.11n wireless NIC,HARDWARE,HIGH,Power,United States,Nashville
+Avaya:Secure Router 4134,HARDWARE,HIGH,DDOS,United States,Nashville
+Check Point:1200R,HARDWARE,HIGH,Overheat,United States,Nashville
+Check Point:2200,HARDWARE,HIGH,Firewall,United States,Nashville
+Check Point:5400,HARDWARE,HIGH,Overheat,United States,Nashville
+Cisco:12000,HARDWARE,HIGH,DDOS,United States,Nashville
+Cisco:2500 series,HARDWARE,HIGH,Power Grid Blackout,United States,Nashville
+Cisco:ASA,HARDWARE,HIGH,Lightning Strike,United States,Nashville
+Cisco:Komodo blade,HARDWARE,HIGH,Obsolete,United States,Nashville
+Cisco:Nexus 7700,HARDWARE,HIGH,Software,United States,Nashville
+Cisco:Unified Computing System,HARDWARE,HIGH,Bad Disk,United States,Nashville
+Cisco:Wireless IP Phone 7920,HARDWARE,HIGH,Improper Patch,United States,Nashville
+DDOS System,HARDWARE,HIGH,Malware,United States,Nashville
+Dell:PowerEdge,HARDWARE,HIGH,DDOS,United States,Nashville
+Dell:PowerEdge VRTX,HARDWARE,HIGH,Power,United States,Nashville
+Dell:PowerVault,HARDWARE,HIGH,Power,United States,Nashville
+DSL Modem with 1 DSL port and 1 Ethernet Base-T or Base-F port,HARDWARE,HIGH,Power,United States,Nashville
+HP:CloudSystem,HARDWARE,HIGH,DDOS,United States,Nashville
+HP:Enterprise Security Products,HARDWARE,HIGH,Power,United States,Nashville
+HP:Flexible Data Center,HARDWARE,HIGH,Overheat,United States,Nashville
+HP:Networking Products,HARDWARE,HIGH,DDOS,United States,Nashville
+HP:Technology Services,HARDWARE,HIGH,Traffic Spikes,United States,Nashville
+HP:Utility Data Center,HARDWARE,HIGH,Water Damage,United States,Nashville
+IBM:PC Network,HARDWARE,HIGH,Obsolete,United States,Nashville
+IBM:Standard Modular System,HARDWARE,HIGH,Human Error,United States,Nashville
+Intel:Active Management Technology,HARDWARE,HIGH,Bad Disk,United States,Nashville
+Intel:Reader,HARDWARE,HIGH,Firewall,United States,Nashville
+Intel:Skulltrail,HARDWARE,HIGH,Improper Patch,United States,Nashville
+Oracle:Big Data Appliance,HARDWARE,HIGH,DDOS,United States,Nashville
+Oracle:Exadata,HARDWARE,HIGH,DDOS,United States,Nashville
+Oracle:Exalogic,HARDWARE,HIGH,Power,United States,Nashville
+Oracle:Zero Data Loss Recovery Appliance,HARDWARE,HIGH,Improper Patch,United States,Nashville
+Server Backup System,HARDWARE,HIGH,DDOS,United States,Nashville
+Siemens:6ES5,HARDWARE,HIGH,Crash,United States,Nashville
+Sun:Constellation System,HARDWARE,HIGH,Power Grid Blackout,United States,Nashville
+Sun:Fire,HARDWARE,HIGH,Hard Drive,United States,Nashville
+Sun:Modular Datacenter,HARDWARE,HIGH,Software,United States,Nashville
+Sun:SPOT,HARDWARE,HIGH,Firewall,United States,Nashville
+Sun:StorageTek 5800 System,HARDWARE,HIGH,Power,United States,Nashville
+Sun:StorageTek SL8500,HARDWARE,HIGH,Power,United States,Nashville
+Anti-virus Software,SOFTWARE,HIGH,DDOS,United States,Nashville
+Desktop Management Software,SOFTWARE,HIGH,Power,United States,Nashville
+Fortinet:FortiGate FG-30E,SOFTWARE,HIGH,Firewall,United States,Nashville
+Palo Alto:PA-3020,SOFTWARE,HIGH,DDOS,United States,Nashville
+Palo Alto:PA-350,SOFTWARE,HIGH,Water Damage,United States,Nashville
+SAP:Cloud Platform,SOFTWARE,HIGH,Obsolete,United States,Nashville
+SNMP Network Management Software,SOFTWARE,HIGH,DDOS,United States,Nashville
+Cisco:IOS XE,SOFTWARE,HIGH,Human Error,United States,Nashville
+Cisco:IOS XR,SOFTWARE,HIGH,Firewall,United States,Nashville
+Fortinet:FortiClient VPN,SOFTWARE,HIGH,Improper Patch,United States,Nashville
+Microsoft:SharePoint Server,SOFTWARE,HIGH,Firewall,United States,Nashville
+Microsoft:Skype for Business,SOFTWARE,HIGH,Traffic Spikes,United States,Nashville
+Microsoft:Windows Mobile,SOFTWARE,HIGH,DDOS,United States,Nashville
+Microsoft:Windows Server 2008,SOFTWARE,HIGH,Improper Patch,United States,Nashville
+Microsoft:XNA,SOFTWARE,HIGH,Obsolete,United States,Nashville
+Oracle:Application Framework,SOFTWARE,HIGH,Malware,United States,Nashville
+Oracle:Clusterware,SOFTWARE,HIGH,Crash,United States,Nashville
+Oracle:Coherence,SOFTWARE,HIGH,Hard Drive,United States,Nashville
+Oracle:Database Appliance,SOFTWARE,HIGH,Firewall,United States,Nashville
+Oracle:Hyperion,SOFTWARE,HIGH,DDOS,United States,Nashville
+Oracle:Net Services,SOFTWARE,HIGH,DDOS,United States,Nashville
+Oracle:VM VirtualBox,SOFTWARE,HIGH,Improper Patch,United States,Nashville
+Samsung:Kies,SOFTWARE,HIGH,Obsolete,United States,Nashville
+SAP:IS-U,SOFTWARE,HIGH,Improper Patch,United States,Nashville
+SAP:Production Planning,SOFTWARE,HIGH,Crash,United States,Nashville
+Sun:Blade,SOFTWARE,HIGH,Firewall,United States,Nashville
+Cisco:Nexus switches,HARDWARE,LOW,DDOS,United States,Nashville
+Apache:Helix,HARDWARE,LOW,Malware,United States,Nashville
+Apache:MXNet,HARDWARE,LOW,DDOS,United States,Nashville
+Apache:POI,HARDWARE,LOW,Firewall,United States,Nashville
+ARM:Cortex-M4,HARDWARE,LOW,Firewall,United States,Nashville
+Asus:EeeBook,HARDWARE,LOW,Traffic Spikes,United States,Nashville
+Asus:Memo Pad 7,HARDWARE,LOW,Malware,United States,Nashville
+Asus:Memo Pad 8,HARDWARE,LOW,Crash,United States,Nashville
+Asus:Memo Pad HD 7,HARDWARE,LOW,Hard Drive,United States,Nashville
+Asus:Tinker Board,HARDWARE,LOW,Firewall,United States,Nashville
+Asus:Transformer,HARDWARE,LOW,Traffic Spikes,United States,Nashville
+Avaya:ERS 8600,HARDWARE,LOW,DDOS,United States,Nashville
+Avaya:IP Phone 1140E,HARDWARE,LOW,Firewall,United States,Nashville
+Avaya:TN799,HARDWARE,LOW,Firewall,United States,Nashville
+Dell:PowerConnect,HARDWARE,LOW,Traffic Spikes,United States,Nashville
+Ethernet 10/100/1000 Base-T 8 port,HARDWARE,LOW,DDOS,United States,Nashville
+Ethernet 10/100/1000Base-T,HARDWARE,LOW,Malware,United States,Nashville
+Ethernet 1000Base-F,HARDWARE,LOW,Human Error,United States,Nashville
+Ethernet 10GBase-F 16 port,HARDWARE,LOW,DDOS,United States,Nashville
+Ethernet 10GBaseF 2 port,HARDWARE,LOW,Crash,United States,Nashville
+Ethernet 10GBaseF 4 port,HARDWARE,LOW,Firewall,United States,Nashville
+Ethernet 10GBase-F 4 port,HARDWARE,LOW,Improper Patch,United States,Nashville
+Ethernet 10GBase-F 8 port,HARDWARE,LOW,Hard Drive,United States,Nashville
+Ethernet 10GBase-F Patch Panel 48 port,HARDWARE,LOW,Firewall,United States,Nashville
+Ethernet 10GBase-F Patch Panel 48 port,HARDWARE,LOW,Obsolete,United States,Nashville
+Ethernet 10GBase-T 12 port,HARDWARE,LOW,Firewall,United States,Nashville
+Ethernet 10GBase-T 28 port,HARDWARE,LOW,Traffic Spikes,United States,Nashville
+Ethernet 10GBase-T 4 port,HARDWARE,LOW,Improper Patch,United States,Nashville
+Ethernet 10GBase-T 8 port,HARDWARE,LOW,DDOS,United States,Nashville
+Ethernet Gigabit 10/100/1000 Base-T 2 port,HARDWARE,LOW,Malware,United States,Nashville
+Ethernet Gigabit 10/100/1000 Base-T 4 port,HARDWARE,LOW,Human Error,United States,Nashville
+Ethernet Gigabit 10/100/1000 Base-T 8 port,HARDWARE,LOW,DDOS,United States,Nashville
+Ethernet Gigabit Base-T 16 port,HARDWARE,LOW,Crash,United States,Nashville
+Ethernet Gigabit Base-T 16 port,HARDWARE,LOW,Firewall,United States,Nashville
+Ethernet Gigabit Base-T 24 port,HARDWARE,LOW,Improper Patch,United States,Nashville
+Ethernet Gigabit Base-T 24 port,HARDWARE,LOW,Hard Drive,United States,Nashville
+Ethernet Gigabit Base-T 8 port,HARDWARE,LOW,Firewall,United States,Nashville
+Ethernet Gigabit Base-T 8 port,HARDWARE,LOW,Obsolete,United States,Nashville
+Ethernet100/1000 Base-T Patch Panel 48 port,HARDWARE,LOW,Firewall,United States,Nashville
+Ethernet100/1000 Base-T Patch Panel 48 port,HARDWARE,LOW,Traffic Spikes,United States,Nashville
+Ethernet10GBase-T Patch Panel 48 port,HARDWARE,LOW,Improper Patch,United States,Nashville
+Fiber 10GbE,HARDWARE,LOW,DDOS,United States,Nashville
+Fiber 1GbE Patch Cables,HARDWARE,LOW,Malware,United States,Nashville
+Google:Chromecast,HARDWARE,LOW,Human Error,United States,Nashville
+HP:Integrated Lights-Out,HARDWARE,LOW,Crash,United States,Nashville
+HP:Memory spot chip,HARDWARE,LOW,Improper Patch,United States,Nashville
+HP:Precision Bus,HARDWARE,LOW,Firewall,United States,Nashville
+HP:X-Terminals,HARDWARE,LOW,Traffic Spikes,United States,Nashville
+IBM:Elastic Interface,HARDWARE,LOW,Malware,United States,Nashville
+IBM:Solid Logic Technology,HARDWARE,LOW,Crash,United States,Nashville
+Intel:AMT versions,HARDWARE,LOW,Firewall,United States,Nashville
+Intel:Display Power Saving Technology,HARDWARE,LOW,Firewall,United States,Nashville
+Intel:Edison,HARDWARE,LOW,Obsolete,United States,Nashville
+Intel:Galileo,HARDWARE,LOW,Firewall,United States,Nashville
+Intel:High Definition Audio,HARDWARE,LOW,Human Error,United States,Nashville
+Intel:Hub Architecture,HARDWARE,LOW,Firewall,United States,Nashville
+Intel:Inboard 386,HARDWARE,LOW,Firewall,United States,Nashville
+Intel:iPSC,HARDWARE,LOW,Traffic Spikes,United States,Nashville
+Intel:Modular Server System,HARDWARE,LOW,Malware,United States,Nashville
+Intel:Paragon,HARDWARE,LOW,Crash,United States,Nashville
+Intel:System Development Kit,HARDWARE,LOW,DDOS,United States,Nashville
+Intel:T5300,HARDWARE,LOW,DDOS,United States,Nashville
+Intel:TeraHertz,HARDWARE,LOW,Improper Patch,United States,Nashville
+Intel:Ultra Path Interconnect,HARDWARE,LOW,Obsolete,United States,Nashville
+Intel:Upgrade Service,HARDWARE,LOW,Improper Patch,United States,Nashville
+Intel:Viiv,HARDWARE,LOW,Human Error,United States,Nashville
+Intel:vPro,HARDWARE,LOW,Firewall,United States,Nashville
+Juniper:QFX10008,HARDWARE,LOW,Firewall,United States,Nashville
+Microsoft:HoloLens,HARDWARE,LOW,Obsolete,United States,Nashville
+Microsoft:Mouse,HARDWARE,LOW,Improper Patch,United States,Nashville
+Microsoft:PixelSense,HARDWARE,LOW,Hard Drive,United States,Nashville
+Nest:Thermostat,HARDWARE,LOW,Firewall,United States,Nashville
+Nortel:Meridian,HARDWARE,LOW,Improper Patch,United States,Nashville
+OC-1 (52 Mbps),HARDWARE,LOW,DDOS,United States,Nashville
+OC-12 (622 Mbps),HARDWARE,LOW,Malware,United States,Nashville
+Plus one 10GBaseF port,HARDWARE,LOW,Human Error,United States,Nashville
+Plus one 10GBaseF port,HARDWARE,LOW,DDOS,United States,Nashville
+Plus one 10GBaseF port,HARDWARE,LOW,Crash,United States,Nashville
+Plus one 10GBaseF port,HARDWARE,LOW,Firewall,United States,Nashville
+SonicWall:TZ270,HARDWARE,LOW,Firewall,United States,Nashville
+UTP Cat 5 (100Base-T),HARDWARE,LOW,Obsolete,United States,Nashville
+UTP Cat 5e (1000Base-T),HARDWARE,LOW,Firewall,United States,Nashville
+UTP Cat 5e Patch Cables,HARDWARE,LOW,Traffic Spikes,United States,Nashville
+UTP Cat 6 (10GBase-T),HARDWARE,LOW,Improper Patch,United States,Nashville
+UTP Cat 6 Patch Cables,HARDWARE,LOW,DDOS,United States,Nashville
+Wireless 450Mbps Adapter for Desktops,HARDWARE,LOW,Malware,United States,Nashville
+Xerox:500 series,HARDWARE,LOW,Crash,United States,Nashville
+Xerox:6060,HARDWARE,LOW,Hard Drive,United States,Nashville
+Xerox:820,HARDWARE,LOW,Firewall,United States,Nashville
+Xerox:Alto,HARDWARE,LOW,DDOS,United States,Nashville
+Xerox:Daybreak,HARDWARE,LOW,DDOS,United States,Nashville
+Xerox:NoteTaker,HARDWARE,LOW,Improper Patch,United States,Nashville
+Xerox:Star,HARDWARE,LOW,Traffic Spikes,United States,Nashville
+Adobe:Acrobat DC,SOFTWARE,LOW,Malware,United States,Nashville
+Adobe:ColdFusion,SOFTWARE,LOW,Crash,United States,Nashville
+Adobe:Director,SOFTWARE,LOW,Hard Drive,United States,Nashville
+Adobe:Media Encoder,SOFTWARE,LOW,Firewall,United States,Nashville
+Adobe:Premiere Pro,SOFTWARE,LOW,DDOS,United States,Nashville
+Adobe:Systems Incorporated,SOFTWARE,LOW,DDOS,United States,Nashville
+Apache:XAP,SOFTWARE,LOW,Firewall,United States,Nashville
+Apple:OS X Lion,SOFTWARE,LOW,Improper Patch,United States,Nashville
+atlassian:Jira,SOFTWARE,LOW,Hard Drive,United States,Nashville
+GNU:Data Language,SOFTWARE,LOW,Hard Drive,United States,Nashville
+GNU:Guile,SOFTWARE,LOW,Firewall,United States,Nashville
+GNU:MediaGoblin,SOFTWARE,LOW,DDOS,United States,Nashville
+GNU:Typist,SOFTWARE,LOW,DDOS,United States,Nashville
+HP:Color recovery,SOFTWARE,LOW,Improper Patch,United States,Nashville
+IBM:ViVA,SOFTWARE,LOW,Firewall,United States,Nashville
+Microsoft:Defender,SOFTWARE,LOW,Crash,United States,Nashville
+Microsoft:FreeCell,SOFTWARE,LOW,Hard Drive,United States,Nashville
+Microsoft:Hyper-V,SOFTWARE,LOW,Firewall,United States,Nashville
+Microsoft:LifeChat,SOFTWARE,LOW,Traffic Spikes,United States,Nashville
+Microsoft:Office XP,SOFTWARE,LOW,Malware,United States,Nashville
+Microsoft:PowerPoint Viewer,SOFTWARE,LOW,Improper Patch,United States,Nashville
+Microsoft:Project,SOFTWARE,LOW,Obsolete,United States,Nashville
+Microsoft:Response Point,SOFTWARE,LOW,Improper Patch,United States,Nashville
+Microsoft:RoundTable,SOFTWARE,LOW,Human Error,United States,Nashville
+Microsoft:Venus,SOFTWARE,LOW,Firewall,United States,Nashville
+Microsoft:Virtual Server,SOFTWARE,LOW,Improper Patch,United States,Nashville
+SAP:Master Data Governance,SOFTWARE,LOW,Firewall,United States,Nashville
+Sun:Visualization System,SOFTWARE,LOW,DDOS,United States,Nashville
+Sun:xVM,SOFTWARE,LOW,DDOS,United States,Nashville
+Zend:Framework,SOFTWARE,LOW,Firewall,United States,Nashville
+HP:Elite x3,HARDWARE,MEDIUM,Traffic Spikes,United States,Nashville
+Acer:Aspire,HARDWARE,MEDIUM,Improper Patch,United States,Nashville
+Acer:Aspire One,HARDWARE,MEDIUM,Human Error,United States,Nashville
+Acer:N series,HARDWARE,MEDIUM,Crash,United States,Nashville
+Acer:Predator,HARDWARE,MEDIUM,Hard Drive,United States,Nashville
+Cable Modem with 1 cable port and 1 Ethernet Base-T or Base-F port,HARDWARE,MEDIUM,DDOS,United States,Nashville
+Cisco:Catalyst,HARDWARE,MEDIUM,Crash,United States,Nashville
+Cisco:Catalyst 1900,HARDWARE,MEDIUM,Improper Patch,United States,Nashville
+Dell:Axim,HARDWARE,MEDIUM,Hard Drive,United States,Nashville
+Dell:FX100,HARDWARE,MEDIUM,Obsolete,United States,Nashville
+Dell:Inspiron desktop computers,HARDWARE,MEDIUM,Traffic Spikes,United States,Nashville
+Dell:M1000e,HARDWARE,MEDIUM,DDOS,United States,Nashville
+Dell:monitors,HARDWARE,MEDIUM,Human Error,United States,Nashville
+Dell:n Series,HARDWARE,MEDIUM,Crash,United States,Nashville
+Dell:Vostro,HARDWARE,MEDIUM,Firewall,United States,Nashville
+Dell:Wyse,HARDWARE,MEDIUM,Hard Drive,United States,Nashville
+Google:Chromebox,HARDWARE,MEDIUM,Human Error,United States,Nashville
+Google:Pixel,HARDWARE,MEDIUM,Hard Drive,United States,Nashville
+Google:Pixelbook,HARDWARE,MEDIUM,Firewall,United States,Nashville
+HP:3000,HARDWARE,MEDIUM,DDOS,United States,Nashville
+HP:64000,HARDWARE,MEDIUM,Human Error,United States,Nashville
+HP:9000,HARDWARE,MEDIUM,Crash,United States,Nashville
+HP:business desktops,HARDWARE,MEDIUM,Improper Patch,United States,Nashville
+HP:Compaq TC1100,HARDWARE,MEDIUM,Obsolete,United States,Nashville
+HP:Compaq TC4200,HARDWARE,MEDIUM,Traffic Spikes,United States,Nashville
+HP:Compaq TC4400,HARDWARE,MEDIUM,DDOS,United States,Nashville
+HP:Converged Systems,HARDWARE,MEDIUM,Human Error,United States,Nashville
+HP:Integral PC,HARDWARE,MEDIUM,Firewall,United States,Nashville
+HP:Slate,HARDWARE,MEDIUM,Hard Drive,United States,Nashville
+HP:Slate 21,HARDWARE,MEDIUM,Obsolete,United States,Nashville
+HP:Slate 500,HARDWARE,MEDIUM,Traffic Spikes,United States,Nashville
+HP:Slate 7,HARDWARE,MEDIUM,DDOS,United States,Nashville
+HP:TouchPad,HARDWARE,MEDIUM,Human Error,United States,Nashville
+HP:TouchSmart,HARDWARE,MEDIUM,Crash,United States,Nashville
+HP:Vectra,HARDWARE,MEDIUM,Improper Patch,United States,Nashville
+Intel:8231/8232,HARDWARE,MEDIUM,Obsolete,United States,Nashville
+Intel:82497,HARDWARE,MEDIUM,Improper Patch,United States,Nashville
+Intel:QuickPath Interconnect,HARDWARE,MEDIUM,DDOS,United States,Nashville
+IPS System,HARDWARE,MEDIUM,Malware,United States,Nashville
+LG:Laptops,HARDWARE,MEDIUM,Firewall,United States,Nashville
+LG:Optimus Pad,HARDWARE,MEDIUM,DDOS,United States,Nashville
+LG:Optimus Pad LTE,HARDWARE,MEDIUM,DDOS,United States,Nashville
+T1 CSU with 1 T1 port (also supports FT1) and 1 Base-T or Base-F port,HARDWARE,MEDIUM,DDOS,United States,Nashville
+T3 CSU with 1 T3 port and 1Base-T or Base-F port,HARDWARE,MEDIUM,Crash,United States,Nashville
+Toshiba:e310,HARDWARE,MEDIUM,Firewall,United States,Nashville
+Toshiba:Excite,HARDWARE,MEDIUM,Hard Drive,United States,Nashville
+Toshiba:Libretto,HARDWARE,MEDIUM,Obsolete,United States,Nashville
+Toshiba:Portégé,HARDWARE,MEDIUM,Traffic Spikes,United States,Nashville
+Toshiba:Satellite,HARDWARE,MEDIUM,Malware,United States,Nashville
+Toshiba:T1100,HARDWARE,MEDIUM,Crash,United States,Nashville
+Toshiba:T1200,HARDWARE,MEDIUM,Improper Patch,United States,Nashville
+Toshiba:T3100,HARDWARE,MEDIUM,Firewall,United States,Nashville
+Avaya:Unified Communications Management,SOFTWARE,MEDIUM,Traffic Spikes,United States,Nashville
+Avira:Vba32 AntiVirus,SOFTWARE,MEDIUM,Malware,United States,Nashville
+Google:Backup and Sync from Google,SOFTWARE,MEDIUM,Human Error,United States,Nashville
+Google:Chrome Remote Desktop Host,SOFTWARE,MEDIUM,Firewall,United States,Nashville
+Mandriva:Linux,SOFTWARE,MEDIUM,Malware,United States,Nashville
+Avaya:Secure Router 4134,HARDWARE,HIGH,Power,Brazil,Rio de Janerio
+Check Point:1200R,HARDWARE,HIGH,Power,Brazil,Rio de Janerio
+Check Point:2200,HARDWARE,HIGH,Improper Patch,Brazil,Rio de Janerio
+Check Point:5400,HARDWARE,HIGH,Power,Brazil,Rio de Janerio
+Cisco:12000,HARDWARE,HIGH,Improper Patch,Brazil,Rio de Janerio
+Cisco:2500 series,HARDWARE,HIGH,Traffic Spikes,Brazil,Rio de Janerio
+Cisco:ASA,HARDWARE,HIGH,Water Damage,Brazil,Rio de Janerio
+Cisco:Komodo blade,HARDWARE,HIGH,Hard Drive,Brazil,Rio de Janerio
+Cisco:Nexus 7700,HARDWARE,HIGH,DDOS,Brazil,Rio de Janerio
+Cisco:Unified Computing System,HARDWARE,HIGH,Human Error,Brazil,Rio de Janerio
+Cisco:Wireless IP Phone 7920,HARDWARE,HIGH,Firewall,Brazil,Rio de Janerio
+Dell:Axim,HARDWARE,HIGH,Power,Brazil,Rio de Janerio
+Dell:PowerEdge,HARDWARE,HIGH,Crash,Brazil,Rio de Janerio
+Dell:PowerEdge VRTX,HARDWARE,HIGH,DDOS,Brazil,Rio de Janerio
+Dell:PowerVault,HARDWARE,HIGH,Firewall,Brazil,Rio de Janerio
+FS:48-Port Gigabit,HARDWARE,HIGH,Crash,Brazil,Rio de Janerio
+IBM:PC Network,HARDWARE,HIGH,Lightning Strike,Brazil,Rio de Janerio
+IBM:Standard Modular System,HARDWARE,HIGH,DDOS,Brazil,Rio de Janerio
+Oracle:Big Data Appliance,HARDWARE,HIGH,Malware,Brazil,Rio de Janerio
+Oracle:Exadata,HARDWARE,HIGH,Crash,Brazil,Rio de Janerio
+Oracle:Exalogic,HARDWARE,HIGH,Power,Brazil,Rio de Janerio
+Oracle:Zero Data Loss Recovery Appliance,HARDWARE,HIGH,Crash,Brazil,Rio de Janerio
+Siemens:6ES5,HARDWARE,HIGH,Firewall,Brazil,Rio de Janerio
+Sun:Blade,HARDWARE,HIGH,Overheat,Brazil,Rio de Janerio
+Sun:Constellation System,HARDWARE,HIGH,DDOS,Brazil,Rio de Janerio
+Sun:Fire,HARDWARE,HIGH,Water Damage,Brazil,Rio de Janerio
+Sun:Modular Datacenter,HARDWARE,HIGH,Obsolete,Brazil,Rio de Janerio
+Sun:SPOT,HARDWARE,HIGH,Human Error,Brazil,Rio de Janerio
+Sun:StorageTek 5800 System,HARDWARE,HIGH,Improper Patch,Brazil,Rio de Janerio
+Sun:StorageTek SL8500,HARDWARE,HIGH,DDOS,Brazil,Rio de Janerio
+Firewalla:firewalla,SOFTWARE,HIGH,Firewall,Brazil,Rio de Janerio
+Fortinet:FortiClient VPN,SOFTWARE,HIGH,Crash,Brazil,Rio de Janerio
+Fortinet:FortiGate FG-30E,SOFTWARE,HIGH,Improper Patch,Brazil,Rio de Janerio
+Foxit:phantompdf,SOFTWARE,HIGH,Power,Brazil,Rio de Janerio
+Palo Alto:PA-3020,SOFTWARE,HIGH,Overheat,Brazil,Rio de Janerio
+Palo Alto:PA-350,SOFTWARE,HIGH,Traffic Spikes,Brazil,Rio de Janerio
+SAP:Cloud Platform,SOFTWARE,HIGH,Lightning Strike,Brazil,Rio de Janerio
+Cisco:IOS XE,SOFTWARE,HIGH,Software,Brazil,Rio de Janerio
+Cisco:IOS XR,SOFTWARE,HIGH,Bad Disk,Brazil,Rio de Janerio
+Hypervisor,SOFTWARE,HIGH,Firewall,Brazil,Rio de Janerio
+Intel:Active Management Technology,SOFTWARE,HIGH,Hard Drive,Brazil,Rio de Janerio
+Intel:Display Power Saving Technology,SOFTWARE,HIGH,Obsolete,Brazil,Rio de Janerio
+Microsoft:Defender,SOFTWARE,HIGH,Traffic Spikes,Brazil,Rio de Janerio
+Microsoft:Hyper-V,SOFTWARE,HIGH,DDOS,Brazil,Rio de Janerio
+Microsoft:LifeChat,SOFTWARE,HIGH,Human Error,Brazil,Rio de Janerio
+Microsoft:Office XP,SOFTWARE,HIGH,Crash,Brazil,Rio de Janerio
+Microsoft:SharePoint Server,SOFTWARE,HIGH,Improper Patch,Brazil,Rio de Janerio
+Microsoft:Skype for Business,SOFTWARE,HIGH,Obsolete,Brazil,Rio de Janerio
+Microsoft:Virtual Server,SOFTWARE,HIGH,Improper Patch,Brazil,Rio de Janerio
+Microsoft:Windows Mobile,SOFTWARE,HIGH,Malware,Brazil,Rio de Janerio
+Microsoft:Windows Server 2008,SOFTWARE,HIGH,Crash,Brazil,Rio de Janerio
+Microsoft:XNA,SOFTWARE,HIGH,Hard Drive,Brazil,Rio de Janerio
+Novell Storage Manager,SOFTWARE,HIGH,Firewall,Brazil,Rio de Janerio
+Oracle:Application Framework,SOFTWARE,HIGH,Improper Patch,Brazil,Rio de Janerio
+Oracle:Clusterware,SOFTWARE,HIGH,Human Error,Brazil,Rio de Janerio
+Oracle:Coherence,SOFTWARE,HIGH,Firewall,Brazil,Rio de Janerio
+Oracle:Database Appliance,SOFTWARE,HIGH,Firewall,Brazil,Rio de Janerio
+Oracle:Hyperion,SOFTWARE,HIGH,Traffic Spikes,Brazil,Rio de Janerio
+Oracle:Net Services,SOFTWARE,HIGH,Malware,Brazil,Rio de Janerio
+Oracle:VM VirtualBox,SOFTWARE,HIGH,Crash,Brazil,Rio de Janerio
+Samsung:Kies,SOFTWARE,HIGH,Hard Drive,Brazil,Rio de Janerio
+SAP:IS-U,SOFTWARE,HIGH,Firewall,Brazil,Rio de Janerio
+SAP:Master Data Governance,SOFTWARE,HIGH,DDOS,Brazil,Rio de Janerio
+SAP:Production Planning,SOFTWARE,HIGH,Human Error,Brazil,Rio de Janerio
+Windows 8.1,SOFTWARE,HIGH,Improper Patch,Brazil,Rio de Janerio
+Windows App Certification Kit SupportedApiList x86,SOFTWARE,HIGH,Firewall,Brazil,Rio de Janerio
+Windows SDK Desktop Headers arm,SOFTWARE,HIGH,Firewall,Brazil,Rio de Janerio
+Cisco:Nexus switches,HARDWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+Amazon:Dash,HARDWARE,LOW,Malware,Brazil,Rio de Janerio
+Amazon:Echo,HARDWARE,LOW,DDOS,Brazil,Rio de Janerio
+Amazon:Echo Show,HARDWARE,LOW,Firewall,Brazil,Rio de Janerio
+Amazon:Fire tablet,HARDWARE,LOW,Hard Drive,Brazil,Rio de Janerio
+Amazon:Fire TV,HARDWARE,LOW,Obsolete,Brazil,Rio de Janerio
+Amazon:Kindle,HARDWARE,LOW,Traffic Spikes,Brazil,Rio de Janerio
+ARM:Cortex-M4,HARDWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+Asus:EeeBook,HARDWARE,LOW,Obsolete,Brazil,Rio de Janerio
+Asus:Memo Pad 7,HARDWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+Asus:Memo Pad 8,HARDWARE,LOW,Human Error,Brazil,Rio de Janerio
+Asus:Memo Pad HD 7,HARDWARE,LOW,Firewall,Brazil,Rio de Janerio
+Asus:Tinker Board,HARDWARE,LOW,Firewall,Brazil,Rio de Janerio
+Asus:Transformer,HARDWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+atlassian:Jira,HARDWARE,LOW,Malware,Brazil,Rio de Janerio
+Avaya:ERS 8600,HARDWARE,LOW,Crash,Brazil,Rio de Janerio
+Avaya:IP Phone 1140E,HARDWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+Avaya:TN799,HARDWARE,LOW,Obsolete,Brazil,Rio de Janerio
+Dell:PowerConnect,HARDWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+HP:X-Terminals,HARDWARE,LOW,Obsolete,Brazil,Rio de Janerio
+IBM:Elastic Interface,HARDWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+IBM:Solid Logic Technology,HARDWARE,LOW,Human Error,Brazil,Rio de Janerio
+Intel:AMT versions,HARDWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+Intel:Galileo,HARDWARE,LOW,Traffic Spikes,Brazil,Rio de Janerio
+Intel:High Definition Audio,HARDWARE,LOW,DDOS,Brazil,Rio de Janerio
+Intel:Hub Architecture,HARDWARE,LOW,DDOS,Brazil,Rio de Janerio
+Intel:Inboard 386,HARDWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+Intel:iPSC,HARDWARE,LOW,Obsolete,Brazil,Rio de Janerio
+Intel:Modular Server System,HARDWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+Intel:Paragon,HARDWARE,LOW,Human Error,Brazil,Rio de Janerio
+Intel:QuickPath Interconnect,HARDWARE,LOW,Firewall,Brazil,Rio de Janerio
+Intel:Reader,HARDWARE,LOW,Hard Drive,Brazil,Rio de Janerio
+Intel:Skulltrail,HARDWARE,LOW,Obsolete,Brazil,Rio de Janerio
+Intel:System Development Kit,HARDWARE,LOW,Traffic Spikes,Brazil,Rio de Janerio
+Intel:T5300,HARDWARE,LOW,Malware,Brazil,Rio de Janerio
+Intel:TeraHertz,HARDWARE,LOW,Crash,Brazil,Rio de Janerio
+Intel:Ultra Path Interconnect,HARDWARE,LOW,Hard Drive,Brazil,Rio de Janerio
+Intel:Upgrade Service,HARDWARE,LOW,Firewall,Brazil,Rio de Janerio
+Intel:Viiv,HARDWARE,LOW,DDOS,Brazil,Rio de Janerio
+Intel:vPro,HARDWARE,LOW,DDOS,Brazil,Rio de Janerio
+Juniper:QFX10008,HARDWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+Microsoft:Lumia,HARDWARE,LOW,Firewall,Brazil,Rio de Janerio
+Microsoft:Lumia 430,HARDWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+Microsoft:Lumia 435,HARDWARE,LOW,Malware,Brazil,Rio de Janerio
+Microsoft:Lumia 532,HARDWARE,LOW,DDOS,Brazil,Rio de Janerio
+Microsoft:Lumia 535,HARDWARE,LOW,Firewall,Brazil,Rio de Janerio
+Microsoft:Lumia 540,HARDWARE,LOW,Hard Drive,Brazil,Rio de Janerio
+Microsoft:Lumia 550,HARDWARE,LOW,Obsolete,Brazil,Rio de Janerio
+Microsoft:Lumia 640,HARDWARE,LOW,Traffic Spikes,Brazil,Rio de Janerio
+Microsoft:Lumia 650,HARDWARE,LOW,DDOS,Brazil,Rio de Janerio
+Microsoft:Lumia 950,HARDWARE,LOW,Human Error,Brazil,Rio de Janerio
+Microsoft:Lumia 950 XL,HARDWARE,LOW,Crash,Brazil,Rio de Janerio
+Nest:Thermostat,HARDWARE,LOW,Obsolete,Brazil,Rio de Janerio
+SonicWall:TZ270,HARDWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+Xerox:500 series,HARDWARE,LOW,Human Error,Brazil,Rio de Janerio
+Xerox:6060,HARDWARE,LOW,Firewall,Brazil,Rio de Janerio
+Xerox:820,HARDWARE,LOW,Firewall,Brazil,Rio de Janerio
+Xerox:Alto,HARDWARE,LOW,Traffic Spikes,Brazil,Rio de Janerio
+Xerox:Daybreak,HARDWARE,LOW,Malware,Brazil,Rio de Janerio
+Xerox:NoteTaker,HARDWARE,LOW,Crash,Brazil,Rio de Janerio
+Xerox:Sigma 9,HARDWARE,LOW,Hard Drive,Brazil,Rio de Janerio
+Xerox:Star,HARDWARE,LOW,Obsolete,Brazil,Rio de Janerio
+Adobe:Acrobat DC,SOFTWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+Adobe:ColdFusion,SOFTWARE,LOW,Human Error,Brazil,Rio de Janerio
+Adobe:Director,SOFTWARE,LOW,Firewall,Brazil,Rio de Janerio
+Adobe:Media Encoder,SOFTWARE,LOW,Firewall,Brazil,Rio de Janerio
+Adobe:Premiere Pro,SOFTWARE,LOW,Traffic Spikes,Brazil,Rio de Janerio
+Adobe:Systems Incorporated,SOFTWARE,LOW,Malware,Brazil,Rio de Janerio
+BitTorrent,SOFTWARE,LOW,Firewall,Brazil,Rio de Janerio
+CutePDF,SOFTWARE,LOW,Firewall,Brazil,Rio de Janerio
+Dragon Quest,SOFTWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+Gif Recorder,SOFTWARE,LOW,Malware,Brazil,Rio de Janerio
+GNOME Do,SOFTWARE,LOW,DDOS,Brazil,Rio de Janerio
+GNU:Data Language,SOFTWARE,LOW,Firewall,Brazil,Rio de Janerio
+GNU:Guile,SOFTWARE,LOW,Firewall,Brazil,Rio de Janerio
+GNU:MediaGoblin,SOFTWARE,LOW,Traffic Spikes,Brazil,Rio de Janerio
+GNU:Typist,SOFTWARE,LOW,Malware,Brazil,Rio de Janerio
+Graphviz,SOFTWARE,LOW,Crash,Brazil,Rio de Janerio
+IBM:ViVA,SOFTWARE,LOW,Firewall,Brazil,Rio de Janerio
+Intel:Edison,SOFTWARE,LOW,Traffic Spikes,Brazil,Rio de Janerio
+Kdenlive,SOFTWARE,LOW,DDOS,Brazil,Rio de Janerio
+MariaDB 10.5,SOFTWARE,LOW,Human Error,Brazil,Rio de Janerio
+Microsoft:FreeCell,SOFTWARE,LOW,Firewall,Brazil,Rio de Janerio
+Microsoft:HoloLens,SOFTWARE,LOW,Firewall,Brazil,Rio de Janerio
+Microsoft:Mathematics,SOFTWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+Microsoft:PixelSense,SOFTWARE,LOW,Human Error,Brazil,Rio de Janerio
+Microsoft:PowerPoint Viewer,SOFTWARE,LOW,Crash,Brazil,Rio de Janerio
+Microsoft:Project,SOFTWARE,LOW,Hard Drive,Brazil,Rio de Janerio
+Microsoft:Response Point,SOFTWARE,LOW,Firewall,Brazil,Rio de Janerio
+Microsoft:RoundTable,SOFTWARE,LOW,DDOS,Brazil,Rio de Janerio
+Microsoft:Venus,SOFTWARE,LOW,DDOS,Brazil,Rio de Janerio
+Mozilla:Firefox 3.5,SOFTWARE,LOW,Hard Drive,Brazil,Rio de Janerio
+MS:Project,SOFTWARE,LOW,Obsolete,Brazil,Rio de Janerio
+Node.js,SOFTWARE,LOW,Traffic Spikes,Brazil,Rio de Janerio
+Poll Everywhere,SOFTWARE,LOW,DDOS,Brazil,Rio de Janerio
+PuTTY,SOFTWARE,LOW,Human Error,Brazil,Rio de Janerio
+Python 3.8.3 Add to Path (64-bit),SOFTWARE,LOW,Crash,Brazil,Rio de Janerio
+Python 3.8.3 Core Interpreter (64-bit),SOFTWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+Python-Ogre,SOFTWARE,LOW,Firewall,Brazil,Rio de Janerio
+Sun:Visualization System,SOFTWARE,LOW,Traffic Spikes,Brazil,Rio de Janerio
+Sun:xVM,SOFTWARE,LOW,Malware,Brazil,Rio de Janerio
+Universal CRT Redistributable,SOFTWARE,LOW,Crash,Brazil,Rio de Janerio
+XnView,SOFTWARE,LOW,Improper Patch,Brazil,Rio de Janerio
+Zend:Framework,SOFTWARE,LOW,Firewall,Brazil,Rio de Janerio
+Acer:Aspire,HARDWARE,MEDIUM,DDOS,Brazil,Rio de Janerio
+Acer:Aspire One,HARDWARE,MEDIUM,Malware,Brazil,Rio de Janerio
+Acer:Iconia,HARDWARE,MEDIUM,DDOS,Brazil,Rio de Janerio
+Acer:N series,HARDWARE,MEDIUM,Firewall,Brazil,Rio de Janerio
+Acer:PICA,HARDWARE,MEDIUM,Improper Patch,Brazil,Rio de Janerio
+Acer:Predator,HARDWARE,MEDIUM,Firewall,Brazil,Rio de Janerio
+Allen Bradley:1763-NC01,HARDWARE,MEDIUM,Obsolete,Brazil,Rio de Janerio
+Avaya:ERS 4000 series,HARDWARE,MEDIUM,Traffic Spikes,Brazil,Rio de Janerio
+Avaya:ERS 5500 Series,HARDWARE,MEDIUM,DDOS,Brazil,Rio de Janerio
+Avaya:ERS 8800 Series,HARDWARE,MEDIUM,DDOS,Brazil,Rio de Janerio
+Avaya:VSP 4000 series,HARDWARE,MEDIUM,Firewall,Brazil,Rio de Janerio
+Avaya:VSP 7000 Series,HARDWARE,MEDIUM,Hard Drive,Brazil,Rio de Janerio
+Avaya:VSP 9000 Series,HARDWARE,MEDIUM,Obsolete,Brazil,Rio de Janerio
+Avira:Vba32 AntiVirus,HARDWARE,MEDIUM,Traffic Spikes,Brazil,Rio de Janerio
+Catalyst 6500,HARDWARE,MEDIUM,Malware,Brazil,Rio de Janerio
+Cisco:Catalyst,HARDWARE,MEDIUM,DDOS,Brazil,Rio de Janerio
+Cisco:Catalyst 1900,HARDWARE,MEDIUM,Firewall,Brazil,Rio de Janerio
+Dell:FX100,HARDWARE,MEDIUM,Firewall,Brazil,Rio de Janerio
+Dell:Inspiron desktop computers,HARDWARE,MEDIUM,Firewall,Brazil,Rio de Janerio
+Dell:M1000e,HARDWARE,MEDIUM,Improper Patch,Brazil,Rio de Janerio
+Dell:monitors,HARDWARE,MEDIUM,Malware,Brazil,Rio de Janerio
+Dell:n Series,HARDWARE,MEDIUM,DDOS,Brazil,Rio de Janerio
+Dell:Vostro,HARDWARE,MEDIUM,Improper Patch,Brazil,Rio de Janerio
+Dell:Wyse,HARDWARE,MEDIUM,Firewall,Brazil,Rio de Janerio
+DirectLOGIC:PLC,HARDWARE,MEDIUM,Obsolete,Brazil,Rio de Janerio
+FreePBX,HARDWARE,MEDIUM,Traffic Spikes,Brazil,Rio de Janerio
+Google:Chromebox,HARDWARE,MEDIUM,DDOS,Brazil,Rio de Janerio
+Google:Chromecast,HARDWARE,MEDIUM,DDOS,Brazil,Rio de Janerio
+Google:Nest (smart speakers),HARDWARE,MEDIUM,Firewall,Brazil,Rio de Janerio
+Google:Pixel,HARDWARE,MEDIUM,Firewall,Brazil,Rio de Janerio
+Google:Pixelbook,HARDWARE,MEDIUM,Traffic Spikes,Brazil,Rio de Janerio
+Intel:8231/8232,HARDWARE,MEDIUM,Hard Drive,Brazil,Rio de Janerio
+Intel:82497,HARDWARE,MEDIUM,Firewall,Brazil,Rio de Janerio
+LG:G Pad 10.1,HARDWARE,MEDIUM,Human Error,Brazil,Rio de Janerio
+LG:G Pad 7.0,HARDWARE,MEDIUM,Crash,Brazil,Rio de Janerio
+LG:G Pad 8.0,HARDWARE,MEDIUM,Improper Patch,Brazil,Rio de Janerio
+LG:G Pad 8.3,HARDWARE,MEDIUM,Firewall,Brazil,Rio de Janerio
+LG:Laptops,HARDWARE,MEDIUM,Traffic Spikes,Brazil,Rio de Janerio
+LG:Optimus Pad,HARDWARE,MEDIUM,Malware,Brazil,Rio de Janerio
+LG:Optimus Pad LTE,HARDWARE,MEDIUM,Crash,Brazil,Rio de Janerio
+LG:Xnote,HARDWARE,MEDIUM,Improper Patch,Brazil,Rio de Janerio
+LiveAction:Omnipeek 20.2,HARDWARE,MEDIUM,Firewall,Brazil,Rio de Janerio
+Microsoft:Mouse,HARDWARE,MEDIUM,Firewall,Brazil,Rio de Janerio
+Navini Networks,HARDWARE,MEDIUM,Improper Patch,Brazil,Rio de Janerio
+Nortel:Meridian,HARDWARE,MEDIUM,Malware,Brazil,Rio de Janerio
+Avaya:Unified Communications Management,SOFTWARE,MEDIUM,Improper Patch,Brazil,Rio de Janerio
+Google:Backup and Sync from Google,SOFTWARE,MEDIUM,DDOS,Brazil,Rio de Janerio
+Google:Chrome Remote Desktop Host,SOFTWARE,MEDIUM,Improper Patch,Brazil,Rio de Janerio
+IBM Network Control Program,SOFTWARE,MEDIUM,Firewall,Brazil,Rio de Janerio
+Java Desktop System,SOFTWARE,MEDIUM,Firewall,Brazil,Rio de Janerio
+Mandriva:Linux,SOFTWARE,MEDIUM,Improper Patch,Brazil,Rio de Janerio
+Avaya:Secure Router 4134,HARDWARE,HIGH,Firewall,China,Shanghai
+Check Point:1200R,HARDWARE,HIGH,Crash,China,Shanghai
+Check Point:2200,HARDWARE,HIGH,DDOS,China,Shanghai
+Check Point:5400,HARDWARE,HIGH,Crash,China,Shanghai
+FS:48-Port Gigabit,HARDWARE,HIGH,Overheat,China,Shanghai
+HP:CloudSystem,HARDWARE,HIGH,Improper Patch,China,Shanghai
+HP:Enterprise Security Products,HARDWARE,HIGH,Firewall,China,Shanghai
+HP:Flexible Data Center,HARDWARE,HIGH,Crash,China,Shanghai
+HP:Networking Products,HARDWARE,HIGH,Improper Patch,China,Shanghai
+HP:Utility Data Center,HARDWARE,HIGH,Power Grid Blackout,China,Shanghai
+IBM:PC Network,HARDWARE,HIGH,Hard Drive,China,Shanghai
+IBM:Standard Modular System,HARDWARE,HIGH,Software,China,Shanghai
+Oracle:Big Data Appliance,HARDWARE,HIGH,Power,China,Shanghai
+Oracle:Exadata,HARDWARE,HIGH,Power,China,Shanghai
+Oracle:Exalogic,HARDWARE,HIGH,Firewall,China,Shanghai
+Oracle:Zero Data Loss Recovery Appliance,HARDWARE,HIGH,Overheat,China,Shanghai
+Siemens:6ES5,HARDWARE,HIGH,Power,China,Shanghai
+Sun:Blade,HARDWARE,HIGH,Improper Patch,China,Shanghai
+Sun:Constellation System,HARDWARE,HIGH,Traffic Spikes,China,Shanghai
+Sun:Fire,HARDWARE,HIGH,Lightning Strike,China,Shanghai
+Sun:Modular Datacenter,HARDWARE,HIGH,DDOS,China,Shanghai
+Sun:SPOT,HARDWARE,HIGH,Bad Disk,China,Shanghai
+Sun:StorageTek 5800 System,HARDWARE,HIGH,Malware,China,Shanghai
+Sun:StorageTek SL8500,HARDWARE,HIGH,Crash,China,Shanghai
+Firewalla:firewalla,SOFTWARE,HIGH,Power,China,Shanghai
+Fortinet:FortiClient VPN,SOFTWARE,HIGH,Overheat,China,Shanghai
+Fortinet:FortiGate FG-30E,SOFTWARE,HIGH,DDOS,China,Shanghai
+Foxit:phantompdf,SOFTWARE,HIGH,Crash,China,Shanghai
+Palo Alto:PA-3020,SOFTWARE,HIGH,Improper Patch,China,Shanghai
+Palo Alto:PA-350,SOFTWARE,HIGH,Power Grid Blackout,China,Shanghai
+SAP:Cloud Platform,SOFTWARE,HIGH,Hard Drive,China,Shanghai
+Hewlett Packard Enterprise Networking,SOFTWARE,HIGH,Malware,China,Shanghai
+HP Client Automation Software,SOFTWARE,HIGH,DDOS,China,Shanghai
+HP:Technology Services,SOFTWARE,HIGH,Crash,China,Shanghai
+Hypervisor,SOFTWARE,HIGH,Improper Patch,China,Shanghai
+Intel:Active Management Technology,SOFTWARE,HIGH,Firewall,China,Shanghai
+Intel:Display Power Saving Technology,SOFTWARE,HIGH,Firewall,China,Shanghai
+Microsoft:Defender,SOFTWARE,HIGH,Improper Patch,China,Shanghai
+Microsoft:Hyper-V,SOFTWARE,HIGH,Malware,China,Shanghai
+Microsoft:LifeChat,SOFTWARE,HIGH,DDOS,China,Shanghai
+Microsoft:Office XP,SOFTWARE,HIGH,Firewall,China,Shanghai
+Microsoft:SharePoint Server,SOFTWARE,HIGH,Hard Drive,China,Shanghai
+Microsoft:Skype for Business,SOFTWARE,HIGH,Firewall,China,Shanghai
+Microsoft:Virtual Server,SOFTWARE,HIGH,DDOS,China,Shanghai
+Microsoft:Windows Mobile,SOFTWARE,HIGH,Human Error,China,Shanghai
+Microsoft:Windows Server 2008,SOFTWARE,HIGH,Firewall,China,Shanghai
+Microsoft:XNA,SOFTWARE,HIGH,Firewall,China,Shanghai
+Novell Storage Manager,SOFTWARE,HIGH,Traffic Spikes,China,Shanghai
+Oracle:Application Framework,SOFTWARE,HIGH,DDOS,China,Shanghai
+Oracle:Clusterware,SOFTWARE,HIGH,DDOS,China,Shanghai
+Oracle:Coherence,SOFTWARE,HIGH,Improper Patch,China,Shanghai
+Oracle:Database Appliance,SOFTWARE,HIGH,Obsolete,China,Shanghai
+Oracle:Hyperion,SOFTWARE,HIGH,Improper Patch,China,Shanghai
+Oracle:Net Services,SOFTWARE,HIGH,Human Error,China,Shanghai
+Oracle:VM VirtualBox,SOFTWARE,HIGH,Firewall,China,Shanghai
+Samsung:Kies,SOFTWARE,HIGH,Firewall,China,Shanghai
+SAP:IS-U,SOFTWARE,HIGH,Traffic Spikes,China,Shanghai
+SAP:Master Data Governance,SOFTWARE,HIGH,Malware,China,Shanghai
+SAP:Production Planning,SOFTWARE,HIGH,DDOS,China,Shanghai
+Windows 8.1,SOFTWARE,HIGH,Hard Drive,China,Shanghai
+Windows App Certification Kit SupportedApiList x86,SOFTWARE,HIGH,Obsolete,China,Shanghai
+Windows SDK Desktop Headers arm,SOFTWARE,HIGH,Traffic Spikes,China,Shanghai
+Amazon:Dash,HARDWARE,LOW,Human Error,China,Shanghai
+Amazon:Echo,HARDWARE,LOW,Crash,China,Shanghai
+Amazon:Echo Show,HARDWARE,LOW,Improper Patch,China,Shanghai
+Amazon:Fire tablet,HARDWARE,LOW,Firewall,China,Shanghai
+Amazon:Fire TV,HARDWARE,LOW,Firewall,China,Shanghai
+Amazon:Kindle,HARDWARE,LOW,Improper Patch,China,Shanghai
+Apache:Helix,HARDWARE,LOW,DDOS,China,Shanghai
+Apache:MXNet,HARDWARE,LOW,Human Error,China,Shanghai
+Apache:POI,HARDWARE,LOW,Crash,China,Shanghai
+ARM:Cortex-M4,HARDWARE,LOW,Hard Drive,China,Shanghai
+Asus:EeeBook,HARDWARE,LOW,Firewall,China,Shanghai
+Asus:Memo Pad 7,HARDWARE,LOW,DDOS,China,Shanghai
+Asus:Memo Pad 8,HARDWARE,LOW,DDOS,China,Shanghai
+Asus:Memo Pad HD 7,HARDWARE,LOW,Improper Patch,China,Shanghai
+Asus:Tinker Board,HARDWARE,LOW,Obsolete,China,Shanghai
+Asus:Transformer,HARDWARE,LOW,DDOS,China,Shanghai
+atlassian:Jira,HARDWARE,LOW,Human Error,China,Shanghai
+Avaya:IP Phone 1140E,HARDWARE,LOW,Hard Drive,China,Shanghai
+Avaya:TN799,HARDWARE,LOW,Firewall,China,Shanghai
+HP:Integrated Lights-Out,HARDWARE,LOW,DDOS,China,Shanghai
+HP:Memory spot chip,HARDWARE,LOW,Firewall,China,Shanghai
+HP:Precision Bus,HARDWARE,LOW,Hard Drive,China,Shanghai
+HP:X-Terminals,HARDWARE,LOW,Firewall,China,Shanghai
+IBM:Elastic Interface,HARDWARE,LOW,DDOS,China,Shanghai
+IBM:Solid Logic Technology,HARDWARE,LOW,DDOS,China,Shanghai
+Intel:AMT versions,HARDWARE,LOW,Hard Drive,China,Shanghai
+Intel:Galileo,HARDWARE,LOW,Improper Patch,China,Shanghai
+Intel:High Definition Audio,HARDWARE,LOW,Malware,China,Shanghai
+Intel:Hub Architecture,HARDWARE,LOW,Crash,China,Shanghai
+Intel:Inboard 386,HARDWARE,LOW,Hard Drive,China,Shanghai
+Intel:iPSC,HARDWARE,LOW,Firewall,China,Shanghai
+Intel:Modular Server System,HARDWARE,LOW,DDOS,China,Shanghai
+Intel:Paragon,HARDWARE,LOW,DDOS,China,Shanghai
+Intel:QuickPath Interconnect,HARDWARE,LOW,Improper Patch,China,Shanghai
+Intel:Reader,HARDWARE,LOW,Firewall,China,Shanghai
+Intel:Skulltrail,HARDWARE,LOW,Firewall,China,Shanghai
+Intel:System Development Kit,HARDWARE,LOW,Improper Patch,China,Shanghai
+Intel:T5300,HARDWARE,LOW,Human Error,China,Shanghai
+Intel:TeraHertz,HARDWARE,LOW,Firewall,China,Shanghai
+Intel:Ultra Path Interconnect,HARDWARE,LOW,Firewall,China,Shanghai
+Intel:Upgrade Service,HARDWARE,LOW,Traffic Spikes,China,Shanghai
+Intel:Viiv,HARDWARE,LOW,Malware,China,Shanghai
+Intel:vPro,HARDWARE,LOW,Crash,China,Shanghai
+Juniper:QFX10008,HARDWARE,LOW,Hard Drive,China,Shanghai
+Microsoft:Lumia,HARDWARE,LOW,Traffic Spikes,China,Shanghai
+Microsoft:Lumia 430,HARDWARE,LOW,DDOS,China,Shanghai
+Microsoft:Lumia 435,HARDWARE,LOW,Human Error,China,Shanghai
+Microsoft:Lumia 532,HARDWARE,LOW,Crash,China,Shanghai
+Microsoft:Lumia 535,HARDWARE,LOW,Improper Patch,China,Shanghai
+Microsoft:Lumia 540,HARDWARE,LOW,Firewall,China,Shanghai
+Microsoft:Lumia 550,HARDWARE,LOW,Firewall,China,Shanghai
+Microsoft:Lumia 640,HARDWARE,LOW,Improper Patch,China,Shanghai
+Microsoft:Lumia 650,HARDWARE,LOW,Malware,China,Shanghai
+Microsoft:Lumia 950,HARDWARE,LOW,DDOS,China,Shanghai
+Microsoft:Lumia 950 XL,HARDWARE,LOW,Firewall,China,Shanghai
+Nest:Thermostat,HARDWARE,LOW,Firewall,China,Shanghai
+Nokia:105 (2013),HARDWARE,LOW,Traffic Spikes,China,Shanghai
+Nokia:105 (2015),HARDWARE,LOW,Improper Patch,China,Shanghai
+Nokia:130,HARDWARE,LOW,DDOS,China,Shanghai
+Nokia:215,HARDWARE,LOW,Malware,China,Shanghai
+Nokia:222,HARDWARE,LOW,Human Error,China,Shanghai
+Nokia:3-digit series,HARDWARE,LOW,DDOS,China,Shanghai
+Nokia:Lumia 530,HARDWARE,LOW,Crash,China,Shanghai
+Nokia:Lumia 630,HARDWARE,LOW,Firewall,China,Shanghai
+Nokia:Lumia 735,HARDWARE,LOW,Improper Patch,China,Shanghai
+Nokia:Lumia 830,HARDWARE,LOW,Hard Drive,China,Shanghai
+Nokia:Lumia 930,HARDWARE,LOW,Firewall,China,Shanghai
+Nokia:Lumia McLaren,HARDWARE,LOW,Obsolete,China,Shanghai
+Nokia:X family,HARDWARE,LOW,Firewall,China,Shanghai
+Nokia:X2 (2014),HARDWARE,LOW,Traffic Spikes,China,Shanghai
+SonicWall:TZ270,HARDWARE,LOW,Hard Drive,China,Shanghai
+Xerox:500 series,HARDWARE,LOW,DDOS,China,Shanghai
+Xerox:6060,HARDWARE,LOW,Improper Patch,China,Shanghai
+Xerox:820,HARDWARE,LOW,Obsolete,China,Shanghai
+Xerox:Alto,HARDWARE,LOW,Improper Patch,China,Shanghai
+Xerox:Daybreak,HARDWARE,LOW,Human Error,China,Shanghai
+Xerox:NoteTaker,HARDWARE,LOW,Firewall,China,Shanghai
+Xerox:Sigma 9,HARDWARE,LOW,Firewall,China,Shanghai
+Xerox:Star,HARDWARE,LOW,Firewall,China,Shanghai
+Adobe:Acrobat DC,SOFTWARE,LOW,DDOS,China,Shanghai
+Adobe:ColdFusion,SOFTWARE,LOW,DDOS,China,Shanghai
+Adobe:Director,SOFTWARE,LOW,Improper Patch,China,Shanghai
+Adobe:Media Encoder,SOFTWARE,LOW,Obsolete,China,Shanghai
+Adobe:Premiere Pro,SOFTWARE,LOW,Improper Patch,China,Shanghai
+Adobe:Systems Incorporated,SOFTWARE,LOW,Human Error,China,Shanghai
+Apache:XAP,SOFTWARE,LOW,Crash,China,Shanghai
+BitTorrent,SOFTWARE,LOW,Obsolete,China,Shanghai
+CutePDF,SOFTWARE,LOW,Traffic Spikes,China,Shanghai
+Dragon Quest,SOFTWARE,LOW,DDOS,China,Shanghai
+Gif Recorder,SOFTWARE,LOW,Human Error,China,Shanghai
+GNOME Do,SOFTWARE,LOW,Crash,China,Shanghai
+GNU:Data Language,SOFTWARE,LOW,Improper Patch,China,Shanghai
+GNU:Guile,SOFTWARE,LOW,Obsolete,China,Shanghai
+GNU:MediaGoblin,SOFTWARE,LOW,Improper Patch,China,Shanghai
+GNU:Typist,SOFTWARE,LOW,Human Error,China,Shanghai
+Graphviz,SOFTWARE,LOW,Firewall,China,Shanghai
+HP:Color recovery,SOFTWARE,LOW,Hard Drive,China,Shanghai
+IBM:ViVA,SOFTWARE,LOW,Obsolete,China,Shanghai
+Intel:Edison,SOFTWARE,LOW,Improper Patch,China,Shanghai
+Kdenlive,SOFTWARE,LOW,Malware,China,Shanghai
+MariaDB 10.5,SOFTWARE,LOW,DDOS,China,Shanghai
+Microsoft:FreeCell,SOFTWARE,LOW,Improper Patch,China,Shanghai
+Microsoft:HoloLens,SOFTWARE,LOW,Obsolete,China,Shanghai
+Microsoft:Mathematics,SOFTWARE,LOW,DDOS,China,Shanghai
+Microsoft:PixelSense,SOFTWARE,LOW,DDOS,China,Shanghai
+Microsoft:PowerPoint Viewer,SOFTWARE,LOW,Firewall,China,Shanghai
+Microsoft:Project,SOFTWARE,LOW,Firewall,China,Shanghai
+Microsoft:Response Point,SOFTWARE,LOW,Traffic Spikes,China,Shanghai
+Microsoft:RoundTable,SOFTWARE,LOW,Malware,China,Shanghai
+Microsoft:Venus,SOFTWARE,LOW,Crash,China,Shanghai
+Mozilla:Firefox 3.5,SOFTWARE,LOW,Firewall,China,Shanghai
+MS:Project,SOFTWARE,LOW,Firewall,China,Shanghai
+Node.js,SOFTWARE,LOW,Improper Patch,China,Shanghai
+Poll Everywhere,SOFTWARE,LOW,Malware,China,Shanghai
+PuTTY,SOFTWARE,LOW,DDOS,China,Shanghai
+Python 3.8.3 Add to Path (64-bit),SOFTWARE,LOW,Firewall,China,Shanghai
+Python 3.8.3 Core Interpreter (64-bit),SOFTWARE,LOW,Hard Drive,China,Shanghai
+Python-Ogre,SOFTWARE,LOW,Obsolete,China,Shanghai
+Sun:Visualization System,SOFTWARE,LOW,Improper Patch,China,Shanghai
+Sun:xVM,SOFTWARE,LOW,Human Error,China,Shanghai
+Universal CRT Redistributable,SOFTWARE,LOW,Firewall,China,Shanghai
+XnView,SOFTWARE,LOW,Hard Drive,China,Shanghai
+Zend:Framework,SOFTWARE,LOW,Obsolete,China,Shanghai
+Allen Bradley:1763-NC01,HARDWARE,MEDIUM,Firewall,China,Shanghai
+Avaya:ERS 4000 series,HARDWARE,MEDIUM,Improper Patch,China,Shanghai
+Avaya:ERS 5500 Series,HARDWARE,MEDIUM,Malware,China,Shanghai
+Avaya:ERS 8600,HARDWARE,MEDIUM,Human Error,China,Shanghai
+Avaya:ERS 8800 Series,HARDWARE,MEDIUM,Crash,China,Shanghai
+Avaya:VSP 4000 series,HARDWARE,MEDIUM,Improper Patch,China,Shanghai
+Avaya:VSP 7000 Series,HARDWARE,MEDIUM,Firewall,China,Shanghai
+Avaya:VSP 9000 Series,HARDWARE,MEDIUM,Firewall,China,Shanghai
+Avira:Vba32 AntiVirus,HARDWARE,MEDIUM,Improper Patch,China,Shanghai
+Catalyst 6500,HARDWARE,MEDIUM,Human Error,China,Shanghai
+DirectLOGIC:PLC,HARDWARE,MEDIUM,Firewall,China,Shanghai
+FreePBX,HARDWARE,MEDIUM,Improper Patch,China,Shanghai
+Google:Chromebox,HARDWARE,MEDIUM,Malware,China,Shanghai
+Google:Chromecast,HARDWARE,MEDIUM,Crash,China,Shanghai
+Google:Nest (smart speakers),HARDWARE,MEDIUM,Improper Patch,China,Shanghai
+Google:Pixel,HARDWARE,MEDIUM,Obsolete,China,Shanghai
+Google:Pixelbook,HARDWARE,MEDIUM,Improper Patch,China,Shanghai
+HP:3000,HARDWARE,MEDIUM,Malware,China,Shanghai
+HP:64000,HARDWARE,MEDIUM,DDOS,China,Shanghai
+HP:9000,HARDWARE,MEDIUM,Firewall,China,Shanghai
+HP:business desktops,HARDWARE,MEDIUM,Hard Drive,China,Shanghai
+HP:Compaq TC1100,HARDWARE,MEDIUM,Firewall,China,Shanghai
+HP:Compaq TC4200,HARDWARE,MEDIUM,Firewall,China,Shanghai
+HP:Compaq TC4400,HARDWARE,MEDIUM,Improper Patch,China,Shanghai
+HP:Converged Systems,HARDWARE,MEDIUM,Malware,China,Shanghai
+HP:Elite x3,HARDWARE,MEDIUM,DDOS,China,Shanghai
+HP:Integral PC,HARDWARE,MEDIUM,Crash,China,Shanghai
+HP:Slate,HARDWARE,MEDIUM,Improper Patch,China,Shanghai
+HP:Slate 21,HARDWARE,MEDIUM,Firewall,China,Shanghai
+HP:Slate 500,HARDWARE,MEDIUM,Firewall,China,Shanghai
+HP:Slate 7,HARDWARE,MEDIUM,Improper Patch,China,Shanghai
+HP:TouchPad,HARDWARE,MEDIUM,Malware,China,Shanghai
+HP:TouchSmart,HARDWARE,MEDIUM,DDOS,China,Shanghai
+HP:Vectra,HARDWARE,MEDIUM,Firewall,China,Shanghai
+Intel:8231/8232,HARDWARE,MEDIUM,Firewall,China,Shanghai
+Intel:82497,HARDWARE,MEDIUM,Traffic Spikes,China,Shanghai
+LG:G Pad 10.1,HARDWARE,MEDIUM,DDOS,China,Shanghai
+LG:G Pad 7.0,HARDWARE,MEDIUM,Firewall,China,Shanghai
+LG:G Pad 8.0,HARDWARE,MEDIUM,Hard Drive,China,Shanghai
+LG:G Pad 8.3,HARDWARE,MEDIUM,Obsolete,China,Shanghai
+LG:Laptops,HARDWARE,MEDIUM,Improper Patch,China,Shanghai
+LG:Optimus Pad,HARDWARE,MEDIUM,Human Error,China,Shanghai
+LG:Optimus Pad LTE,HARDWARE,MEDIUM,Firewall,China,Shanghai
+LG:Xnote,HARDWARE,MEDIUM,Hard Drive,China,Shanghai
+LiveAction:Omnipeek 20.2,HARDWARE,MEDIUM,Obsolete,China,Shanghai
+Microsoft:Mouse,HARDWARE,MEDIUM,Traffic Spikes,China,Shanghai
+Navini Networks,HARDWARE,MEDIUM,DDOS,China,Shanghai
+Nortel:Meridian,HARDWARE,MEDIUM,Human Error,China,Shanghai
+Toshiba:e310,HARDWARE,MEDIUM,Improper Patch,China,Shanghai
+Toshiba:Excite,HARDWARE,MEDIUM,Firewall,China,Shanghai
+Toshiba:Libretto,HARDWARE,MEDIUM,Firewall,China,Shanghai
+Toshiba:Portégé,HARDWARE,MEDIUM,Improper Patch,China,Shanghai
+Toshiba:Qosmio,HARDWARE,MEDIUM,DDOS,China,Shanghai
+Toshiba:Satellite,HARDWARE,MEDIUM,Human Error,China,Shanghai
+Toshiba:T1000,HARDWARE,MEDIUM,DDOS,China,Shanghai
+Toshiba:T1100,HARDWARE,MEDIUM,Firewall,China,Shanghai
+Toshiba:T1200,HARDWARE,MEDIUM,Hard Drive,China,Shanghai
+Toshiba:T3100,HARDWARE,MEDIUM,Obsolete,China,Shanghai
+Toshiba:Tecra,HARDWARE,MEDIUM,Firewall,China,Shanghai
+Avaya:Unified Communications Management,SOFTWARE,MEDIUM,DDOS,China,Shanghai
+Google:Backup and Sync from Google,SOFTWARE,MEDIUM,Crash,China,Shanghai
+Google:Chrome Remote Desktop Host,SOFTWARE,MEDIUM,Hard Drive,China,Shanghai
+IBM Network Control Program,SOFTWARE,MEDIUM,Obsolete,China,Shanghai
+Java Desktop System,SOFTWARE,MEDIUM,Traffic Spikes,China,Shanghai
+Mandriva:Linux,SOFTWARE,MEDIUM,DDOS,China,Shanghai
