@@ -6,10 +6,8 @@ import plotly.express as px  # interactive charts
 import plotly.figure_factory as ff
 from collections import Counter
 import streamlit as st  # 🎈 data web app development
-import matplotlib.pyplot as plt 
 import plotly.graph_objects as go 
 import random
-import base64
 import warnings
 warnings.filterwarnings('ignore')
 
