@@ -3,3 +3,4 @@ pandas
 plotly.express
 streamlit
 st-supabase-connection==1.2.0
+supabase==1.2.0
