@@ -1,8 +1,11 @@
 import numpy as np  
 import pandas as pd  
-import plotly.express as px  
+import plotly_express as px  
 import plotly.figure_factory as ff
 import streamlit as st 
+from supabase import create_client
+from st_supabase_connection import SupabaseConnection
+import json
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -11,10 +14,16 @@ st.set_page_config(
     page_icon = 'Scorpion',
     layout = 'wide',
 )
+
+supabase = st.experimental_connection("supabase",type=SupabaseConnection)
+
 st.markdown("<h1 style='text-align: center; color: white;'>Scorpius II Employee and System Information</h1>", unsafe_allow_html=True)
 
-df = pd.read_csv("Scorpius-Users.csv")
-inventory_df = pd.read_csv("Scorpius-Inventory.csv")
+employees = supabase.table('Employees').select('*').execute().data # fetching documents with filtering
+df = pd.DataFrame(employees)
+
+inventory = supabase.table('Scorpius-Inventory').select('*').execute().data # fetching documents with filtering
+inventory_df = pd.DataFrame(inventory)
 
 st.header('Location')
 location_filter = st.selectbox("♏",pd.unique(df['City']))  
