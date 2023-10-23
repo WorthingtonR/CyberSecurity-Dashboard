@@ -30,14 +30,10 @@ location_filter = st.selectbox("♏",pd.unique(df['City']))
 
 placeholder = st.empty()
 
-#def local_css(file_name):
-#    with open(file_name) as f:
-#        st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
-
 #local_css("style.css")
 
 df = df[df["City"] == location_filter]
-next_df = df[['EEID', 'Full Name', 'Email', 'Job Title','Department', 'Business Unit', 'City', 'Hire Date', 'Access']]
+next_df = df[['ID', 'Full Name', 'Email', 'Job Title','Department', 'Business Unit', 'City', 'Hire Date', 'Access']]
 p_access = len(next_df[next_df['Access']== 'Privileged'])
 s_access = len(next_df[next_df['Access']== 'Standard'])
 
