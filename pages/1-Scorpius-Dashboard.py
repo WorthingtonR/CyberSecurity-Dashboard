@@ -1,33 +1,40 @@
 import time  # to simulate a real time data, time loop
-
 import numpy as np  # np mean, np random
 import pandas as pd  # read csv, df manipulation
-import plotly.express as px  # interactive charts
+import plotly_express as px  # interactive charts
 import plotly.figure_factory as ff
 from collections import Counter
 import streamlit as st  # 🎈 data web app development
 import plotly.graph_objects as go 
 import random
+from supabase import create_client
+from st_supabase_connection import SupabaseConnection
+import json
 import warnings
 warnings.filterwarnings('ignore')
 
-# System User Input
-df = pd.read_csv("Scorpius-Users.csv")
-
-# System Inventory Input
-inventory_df = pd.read_csv("Scorpius-Inventory.csv")
-
-# Security Events
-causes = pd.read_csv('event-cause.csv')
-
-# Repair Costs
-impact_df = pd.read_csv('failure_impact.csv')
 
 st.set_page_config(
     page_title = 'Scorpius CyberSecurity Dashboard"',
     page_icon = 'Scorpion',
     layout = 'wide',
 )
+
+supabase = st.experimental_connection("supabase",type=SupabaseConnection)
+
+# System User Input
+employees = supabase.table('Employees').select('*').execute().data # fetching documents with filtering
+df = pd.DataFrame(employees)
+
+inventory = supabase.table('Scorpius-Inventory').select('*').execute().data # fetching documents with filtering
+inventory_df = pd.DataFrame(inventory)
+
+cause = supabase.table('event-cause').select('*').execute().data # fetching documents with filtering
+causes = pd.DataFrame(cause)
+
+impact = supabase.table('failure-impact').select('*').execute().data # fetching documents with filtering
+impact_df = pd.DataFrame(impact)
+
 
 def local_css(file_name):
     with open(file_name) as f:
